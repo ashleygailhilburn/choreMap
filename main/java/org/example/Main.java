@@ -2,6 +2,10 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+    String[] strArray1 = new String[] {"Monday", "Tuesady", "Wednesday", "Thursday", "Friday"};
+
+    System.out.println(strArray1[2]);
+
     }
 }
